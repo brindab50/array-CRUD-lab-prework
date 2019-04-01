@@ -20,7 +20,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-    food = ["wow", "fruit", "vegatable", "meat", "grain", "arrays!",]
+    food = ["fruit", "vegatable", "meat", "grain", "arrays!",]
     arrays = food.pop
 end
 
