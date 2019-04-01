@@ -30,7 +30,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  food =  ["wow", "fruit", "vegatable", "meat", "grain", "arrays!",]
+  food =  ["wow", "fruit", "am", "meat", "grain", "arrays!",]
   food[2]
 end
 
