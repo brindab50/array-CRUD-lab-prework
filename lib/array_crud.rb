@@ -1,21 +1,27 @@
 def create_an_empty_array
-  
+ []
 end
 
 def create_an_array
+  food = ["fruit", "vegatable", "meat", "grain"]
   
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  food = ["fruit", "vegatable", "meat", "grain",]
+ food.push("arrays!")
+ 
 end
 
+
 def add_element_to_start_of_array(array, element)
-  
+  food = ["fruit", "vegatable", "meat", "grain",]
+  food.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  
+    food = ["fruit", "vegatable", "meat", "grain",]
+    "arrays!"_food = food.pop
 end
 
 def remove_element_from_start_of_array(array)
