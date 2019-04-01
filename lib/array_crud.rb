@@ -40,5 +40,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  food =  ["wow", "fruit", "am", "meat", "grain", "arrays!",]
+    food.last 
 end
