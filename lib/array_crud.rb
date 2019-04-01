@@ -21,7 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
     food = ["fruit", "vegatable", "meat", "grain",]
-    "arrays!"_food = food.pop
+    "arrays!"food = food.pop
 end
 
 def remove_element_from_start_of_array(array)
